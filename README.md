@@ -1,8 +1,8 @@
-# Project Title
+# Assignment
 
 ## Description
 
-A brief description of your project goes here.
+This project implements a simple form submission application using a MERN (MongoDB, Express, React, Node.js) stack. The application allows users to input their name and multiple addresses. Each user can have one or more associated addresses, demonstrating a one-to-many relationship between users and addresses. The backend is powered by Node.js with MongoDB, while the frontend is built using React with Vite as the development tool. Tailwind CSS is used for styling.
 
 ## Prerequisites
 
