@@ -21,3 +21,17 @@ Follow these instructions to set up the Vite frontend and Node.js backend.
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+2. **Navigate to the Backend Directory:** (if applicable):
+   ```bash
+   cd Backend
+
+4. **Create a .env File:** (if applicable):
+   ```bash
+   MONGO_URI=<your-mongodb-connection-string>
+
+5. **Create a .env File:** (if applicable):
+   ```bash
+   npm start
+
+
